@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=22c55e&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F59E0B&height=120&section=header"/>
 
 <p align="center">
   <img src="https://nebulatio.com/nebulatio-wordmark-2-1.png" height="60" alt="Nebulatio"/>
@@ -32,8 +32,8 @@
 ### 🔗 Links
 
 <p align="center">
-  <a href="https://nebulatio.com"><img src="https://img.shields.io/badge/nebulatio.com-22c55e?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://nebulatio.com"><img src="https://img.shields.io/badge/nebulatio.com-F59E0B?style=for-the-badge&logo=google-chrome&logoColor=black"/></a>
   <a href="https://x.com/coletebou"><img src="https://img.shields.io/badge/@coletebou-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=22c55e&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F59E0B&height=100&section=footer"/>
